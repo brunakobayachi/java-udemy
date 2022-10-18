@@ -7,10 +7,6 @@ public class Temperatura {
 		double tempF = 82;
 		double tempC = divisaoF * (tempF - constanteF);
 		
-		System.out.println("A temperatura convertida r: " + tempC + "C");
-		
-		
-		
-		
+		System.out.println("A temperatura convertida e: " + tempC + "C");
 	}
 }
